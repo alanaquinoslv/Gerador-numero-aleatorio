@@ -1,1 +1,1 @@
-# Gerador-numero-aleatorio
+Mini Projeto testando gerador de números aleatórios.
